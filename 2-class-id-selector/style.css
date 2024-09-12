@@ -1,0 +1,20 @@
+.paragraph{
+    background-color: rgba(244, 149, 160, 0.849);
+    font-family: sans-serif;
+    font-weight:549;
+    font-size: large;
+}
+.large{
+    font-size: 30px;
+}
+.new{
+    color: blue;
+    font-size:45px;
+    font-weight:500;
+}
+.green{
+    background-color:rgb(141, 232, 113);
+    color: black;
+    font-weight: bold;
+    font-size:30px;
+}
